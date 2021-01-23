@@ -1,3 +1,7 @@
 ebaysdk
 schedule
 telegram-send
+lxml
+cchardet
+beautifulsoup4
+requests
